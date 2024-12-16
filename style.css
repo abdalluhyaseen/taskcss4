@@ -1,0 +1,418 @@
+/* task 1 */
+.a{
+height: 400px ;
+background-color: purple;
+margin: 15px;
+padding: 15px;
+display: flex;
+
+}
+.a0{
+width: 100px;
+height: 100px;
+background-color: white;
+margin: 15px;
+padding: 15px;
+}
+/* ############################################ */
+/* task 2 */
+
+.b1{
+border: solid black 1px;
+height: 50px;
+margin: 10px;
+padding: 10px;
+display: flex;
+flex-flow: row wrap;
+justify-content:flex-end;
+
+
+
+}
+
+
+.b0{
+    width: 30px;
+    height: 20px;
+align-self:flex-start;
+
+}
+
+
+/* ############################################ */
+/* task 3 */
+
+.c{
+border: 1px blue solid;
+border-radius: 10px;
+width: 500px;
+height: 500px;
+padding: 20px;
+margin: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.c1{
+width: 100px;
+height: 30px ;
+background-color: aquamarine;
+text-align: center;
+}
+
+
+/* ############################################ */
+/* task 4 */
+
+.d0{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.d{
+border: solid 1px blue;
+border-radius: 10px;
+width:200px;
+height: 250px;
+background-color: darkcyan;
+padding: 10px;
+
+}
+
+/* ############################################ */
+/* task 5 */
+
+.e0{
+    position: absolute;
+    left: 250px;
+    height: 500px;
+    width: 600px;
+display: flex;
+margin: 10px;
+padding: 10px;
+gap: 10px;
+flex-flow: row wrap;
+justify-content: center;
+align-items: center;
+
+
+}
+
+
+.e{
+background-color: rgb(4, 117, 117);
+border: 1px solid white;
+border-radius: 10px;
+margin: 10px;
+padding: 10px;
+height: 50px;
+width: 100px;
+flex-wrap: 1;
+}
+
+.e5{
+flex-basis: 200px;
+
+
+}
+
+.e7{
+    flex-grow: 2;
+ 
+    
+    }
+
+
+
+ 
+/* ############################################ */
+/* task 6 */
+
+.f{
+border: gold solid 3px;
+height: 600px;
+width: 900px;
+display: flex;
+
+}
+.f0{
+width: 30px;
+height: 50px;
+text-align: center;
+color: white;
+
+}
+
+
+.f1{
+background-color: green;
+align-self:flex-start;
+width: 20px;
+height: 20px;
+margin-top: 20px;
+
+}
+
+.f2{
+background-color: blue;
+align-self: flex-start;
+
+}
+
+.f3{
+    background-color: purple;
+    align-self: flex-start;
+    
+    }
+    
+    .f4{
+        background-color:rgb(72, 72, 72);
+        align-self: stretch;
+        height: 600px;
+        }
+        
+        .f5{
+background-color: yellow;
+width: 20px;
+height: 20px;
+align-self: center;
+
+    }
+   .f6{
+     background-color: orange;
+      align-self: flex-start;
+            
+   }
+
+
+   .f7{
+ background-color: red;
+  align-self: flex-start;
+       }
+
+       .f8{
+        background-color: gray;
+        align-self: flex-start;
+        
+        }
+        .f9{
+            background-color: green;
+            align-self: flex-start;
+            
+            }
+            .f10{
+                background-color: rgb(35, 52, 35);
+                align-self: flex-end;
+                height: 25px;
+                }
+
+/* ############################################ */
+
+/* task 7 */
+
+
+.j{
+    border: gold solid 3px;
+    height: 500px;
+    width: 700px;
+    display: flex;
+    flex-flow: column ;
+    
+}
+
+.j0{
+height: 50px;
+
+}
+.j1{
+    background-color: greenyellow;
+}
+
+.j2{
+    background-color: blue;
+}
+.j3{
+    background-color: purple;
+}
+.j4{
+    background-color: rgb(37, 36, 36);
+}
+.j5{
+    background-color: yellow;
+}
+.j6{
+    background-color: orange;
+}
+.j7{
+    background-color: red;
+}
+.j8{
+    background-color: gray;
+}
+.j9{
+    background-color: green;
+}
+.j10{
+    background-color: rgb(43, 63, 43);
+}
+
+
+
+/* ############################################ */
+
+/* task 8 */
+
+.g0{
+height: 75px;
+width: 100%;
+display: flex;
+
+}
+
+.g1{
+background-color: aquamarine;
+width: 70%;
+text-align: center;
+
+}
+
+.g3 img{
+width: 30px;
+height: 30px;
+border-radius: 5px;
+margin-top: 10px;
+}
+
+.g2{
+    background-color: blue;
+    width:30%;
+    text-align: center;
+    
+    }
+    .g4 img{
+
+        width: 30px;
+        height: 30px;
+        border-radius: 5px;
+        margin-top: 10px;
+        }
+
+/* ############################################ */
+
+/* task 9 */
+.jj{
+
+    border: gold solid 3px;
+    height: 280px;
+    width: 600px;
+    display: flex;
+    flex-flow: row wrap;
+
+
+}
+
+.jj0{
+height: 70px;
+width: 200px;
+
+}
+
+.jj1{
+background-color:aquamarine;
+}
+.jj2{
+
+background-color: aqua;
+
+}
+
+.jj3{
+background-color: purple;
+
+
+}
+
+
+.jj4{
+    background-color: darkslateblue;
+}
+
+.jj5{
+background-color: yellow;
+
+}
+
+.jj6{
+    background-color: red;
+}
+
+.jj7{
+
+    background-color: red;
+}
+
+.jj8{
+background-color: gray;
+
+}
+
+.jj9{
+background-color: green;
+
+}
+
+.jj10{
+background-color: mediumaquamarine;
+
+}
+
+
+/* ############################################ */
+
+/* task 10 */
+
+.p{
+padding: 10px;
+display: flex;
+flex-flow: row wrap;
+justify-content: space-between;
+
+
+}
+
+
+.p2{
+    align-self: flex-start;
+
+}
+
+.p5,p6{
+align-self: flex-end;
+
+}
+
+nav{
+border: 1px solid black;
+background-color: gray;
+width: 700px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
